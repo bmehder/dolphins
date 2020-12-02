@@ -12,9 +12,9 @@
     <Logo width="150px" />
     <ul class:uppercase>
       <li><a style="color:{linkColor};" href="/">Home</a></li>
-      <li><a style="color:{linkColor};" href="/">About</a></li>
+      <!-- <li><a style="color:{linkColor};" href="/">About</a></li>
       <li><a style="color:{linkColor};" href="/">Services</a></li>
-      <li><a style="color:{linkColor};" href="/">Contact</a></li>
+      <li><a style="color:{linkColor};" href="/">Contact</a></li> -->
     </ul>
   </nav>
 </header>
@@ -22,7 +22,7 @@
 <style>
   header {
     width: 100%;
-    padding: 1em;
+    padding: 1em 0;
     background: darkorange;
     color: white;
     text-align: center;
