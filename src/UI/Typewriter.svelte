@@ -110,7 +110,7 @@
     height: 100px;
   }
   img {
-    width: 300px;
+    width: 250px;
     height: auto;
   }
 </style>
