@@ -148,9 +148,9 @@
         buttonTextColor="white" />
     </Section>
 
-    <!-- <Section background="#606c88" padding="2em">
+    <Section background="#606c88" padding="2em">
       <Typewriter phrase="So long, and thanks for all the fish." />
-    </Section> -->
+    </Section>
   </main>
   <Footer background="#3f4c6b">
     &copy; 2021 Brad Mehder. All rights reserved.
