@@ -19,6 +19,7 @@
   import Gooey from "./UI/Gooey.svelte";
   import CTA from "./UI/CTA.svelte";
   import Typewriter from "./UI/Typewriter.svelte";
+  import Card from "./UI/Card.svelte";
 
   // Data Stores
   import { tennis } from "./Data/tennis.js";
@@ -115,15 +116,44 @@
 
     <Hero
       background="https://source.unsplash.com/random/?1"
-      height="200px"
+      height="600px"
       padding="2em"
       title="You won't believe this."
       color="#fff" />
 
+    <Section padding="4em 2em">
+      <Flex justify="space-around" align="center">
+        <Card>
+          <h3>Heading</h3>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, quasi
+          quam. Expedita temporibus doloremque reiciendis earum beatae, soluta
+          dignissimos ut debitis quo nemo, cumque quisquam, iusto necessitatibus
+          natus dolorem odit.
+          <Button>Click Me</Button>
+        </Card>
+        <Card>
+          <h3>Heading</h3>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, quasi
+          quam. Expedita temporibus doloremque reiciendis earum beatae, soluta
+          dignissimos ut debitis quo nemo, cumque quisquam, iusto necessitatibus
+          natus dolorem odit.
+          <Button>Click Me</Button>
+        </Card>
+        <Card>
+          <h3>Heading</h3>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, quasi
+          quam. Expedita temporibus doloremque reiciendis earum beatae, soluta
+          dignissimos ut debitis quo nemo, cumque quisquam, iusto necessitatibus
+          natus dolorem odit.
+          <Button>Click Me</Button>
+        </Card>
+      </Flex>
+    </Section>
+
     <Section
-      background="white"
+      background="#f06"
       title="Just 4 Simple Steps"
-      titleColor="#f06"
+      titleColor="white"
       padding="4em 2em">
       <Grid columns="1fr 2fr" gap="3em" place="end">
         <FancyCard

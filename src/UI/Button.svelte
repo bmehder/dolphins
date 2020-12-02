@@ -4,7 +4,7 @@
   export let rounded = false;
   export let reflection = false;
   export let color = "white";
-  export let background = "dodgerblue";
+  export let background = "#f06";
   export let url = ".";
 </script>
 
