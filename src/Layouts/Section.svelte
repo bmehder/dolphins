@@ -36,4 +36,9 @@
     margin: 1em auto 1.5em;
     text-align: center;
   }
+  @media screen and (max-width: 600px) {
+    h3 {
+      font-size: 1.5em;
+    }
+  }
 </style>
