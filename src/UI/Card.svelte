@@ -13,6 +13,7 @@
     align-items: center;
     width: 280px;
     height: 480px;
+    margin: 1em;
     padding: 2em;
     background: white;
     border-radius: 10px;

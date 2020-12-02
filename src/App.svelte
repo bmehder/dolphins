@@ -152,7 +152,7 @@
 
     <Section
       background="#f06"
-      title="Just 4 Simple Steps"
+      title="Only 4 Simple Steps"
       titleColor="white"
       padding="4em 2em">
       <Grid columns="1fr 2fr" gap="3em" place="end">
