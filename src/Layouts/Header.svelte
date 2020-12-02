@@ -12,9 +12,9 @@
     <Logo width="150px" />
     <ul class:uppercase>
       <li><a style="color:{linkColor};" href="/">Home</a></li>
-      <li><a style="color:{linkColor};" href="/">About</a></li>
+      <!-- <li><a style="color:{linkColor};" href="/">About</a></li> -->
       <!-- <li><a style="color:{linkColor};" href="/">Services</a></li> -->
-      <li><a style="color:{linkColor};" href="/">Contact</a></li>
+      <!-- <li><a style="color:{linkColor};" href="/">Contact</a></li> -->
     </ul>
   </nav>
 </header>
