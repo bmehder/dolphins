@@ -18,6 +18,7 @@
 <style>
   .wrapper {
     margin: 2em auto;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.24));
   }
   .tab-headings {
     display: flex;
