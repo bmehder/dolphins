@@ -151,7 +151,7 @@
     </Section>
 
     <Section
-      background="#f06"
+      background="#ff9f55"
       title="Only 4 Simple Steps"
       titleColor="white"
       padding="4em 2em">
